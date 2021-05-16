@@ -29,7 +29,7 @@ react-native link @gregfrench/react-native-wheel-picker
 CocoaPods on iOS needs this extra step:
 
 ```
-npx pod-install
+cd ios && pod install && cd ..
 ```
 
 #### Android
