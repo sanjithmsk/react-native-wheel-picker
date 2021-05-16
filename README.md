@@ -23,13 +23,17 @@ yarn add @gregfrench/react-native-wheel-picker
 To link the project, please run
 ```
 react-native link @gregfrench/react-native-wheel-picker
-```
-For iOS install the dependency
-```
-npm i @react-native-picker/picker --save
 
-cd ios && pod install && cd .. 
 ```
+#### iOS
+CocoaPods on iOS needs this extra step:
+
+```
+npx pod-install
+```
+
+#### Android
+No additional step is required.
 
 ## Example code (using functional components)
 ```
