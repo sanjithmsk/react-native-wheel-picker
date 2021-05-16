@@ -24,6 +24,12 @@ To link the project, please run
 ```
 react-native link @gregfrench/react-native-wheel-picker
 ```
+For iOS install the dependency
+```
+npm i @react-native-picker/picker --save
+
+cd ios && pod install && cd .. 
+```
 
 ## Example code (using functional components)
 ```
