@@ -12,13 +12,13 @@ The android component is based on https://github.com/AigeStudio/WheelPicker whic
 ![](https://raw.githubusercontent.com/lesliesam/react-native-wheel-picker/master/demo.gif)
 ![](https://raw.githubusercontent.com/lesliesam/react-native-wheel-picker/master/demo_android.gif)
 
-## How to use
-
-Run command
-
-For apps using RN 0.40 or higher, please run
+## Getting Started
 ```
-npm i @gregfrench/react-native-wheel-picker --save
+npm install @gregfrench/react-native-wheel-picker --save
+```
+or
+```
+yarn add @gregfrench/react-native-wheel-picker
 ```
 To link the project, please run
 ```
