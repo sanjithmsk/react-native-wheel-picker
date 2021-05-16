@@ -16,14 +16,16 @@ The android component is based on https://github.com/AigeStudio/WheelPicker whic
 ```
 npm install @gregfrench/react-native-wheel-picker --save
 ```
+
 or
+
 ```
 yarn add @gregfrench/react-native-wheel-picker
 ```
+
 To link the project, please run
 ```
 react-native link @gregfrench/react-native-wheel-picker
-
 ```
 #### iOS
 CocoaPods on iOS needs this extra step:
