@@ -27,8 +27,16 @@ To link the project, please run
 ```
 react-native link @gregfrench/react-native-wheel-picker
 ```
+
 #### iOS
 CocoaPods on iOS needs this extra step:
+
+```
+npm install @react-native-picker/picker --save
+cd ios && pod install && cd ..
+```
+
+or
 
 ```
 yarn add @react-native-picker/picker
