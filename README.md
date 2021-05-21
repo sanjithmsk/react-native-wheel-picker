@@ -31,6 +31,7 @@ react-native link @gregfrench/react-native-wheel-picker
 CocoaPods on iOS needs this extra step:
 
 ```
+yarn add @react-native-picker/picker
 cd ios && pod install && cd ..
 ```
 
