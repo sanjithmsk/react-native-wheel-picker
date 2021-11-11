@@ -1,5 +1,5 @@
 'use strict';
 
-import {PickerIOS} from '@react-native-picker/picker'
+import {PickerIOS} from 'react-native'
 
 module.exports = PickerIOS;
