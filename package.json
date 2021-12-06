@@ -15,10 +15,10 @@
     "picker",
     "wheel"
   ],
-  "author": "Greg French",
+  "author": "Sanjithmsk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lesliesam/react-native-wheel-picker/issues"
+    "url": "https://github.com/sanjithmsk/react-native-wheel-picker/issues"
   },
   "homepage": "https://github.com/sanjithmsk/react-native-wheel-picker#readme",
   "peerDependencies": {
