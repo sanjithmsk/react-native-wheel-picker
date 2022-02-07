@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.dependency 'React'
 
   s.subspec 'Core' do |ss|
-    ss.source_files     = "RNPicker/*.{h,m}"
+    s.source_files     = "RNPicker/*.{h,m}"
   end
 
 end
